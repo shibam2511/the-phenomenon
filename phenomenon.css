@@ -1,0 +1,67 @@
+body{
+    margin:0;
+    }
+    
+    .header{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKpfDY3P-XQpSKulP5tj83GqRP9Oe_p333PPhAvgvaJ1aXRBXM&s);
+    height:43%;
+    border:.5px dotted brown;
+    }
+    
+    h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 420%;
+    text-shadow: 200px;
+    text-align:center ;
+    position: absolute;
+    top:7%;
+    left: 34%;
+    color:#f544ab;
+    
+    }
+    .desp{
+    position:absolute;
+    right:15px;
+    top:30%;
+    color:#ff0f9b;
+    padding:4px;
+    }
+    .menu{
+    margin-top:2%;
+    color:brown;
+    }
+    .new1{
+    border:1px dashed red;
+    }
+    .new2{
+    border:1px dotted red;
+    }
+    
+    
+    #menus{
+    text-align:center;
+    }
+    #menus>p{
+    padding-bottom:10px;
+    border-bottom:1px dashed brown;
+    font-size:2rem;
+    color:#9c227b;
+    display:none;/special/
+    }
+    
+    
+    .service{
+    text-align:center;
+    text-shadow: 20px grey;
+    font-size:3rem;
+    color:c98928;
+    }
+    .images{
+    display:auto;
+    }
+    .images>img{
+    text-align:center;
+    width:47%;
+    height:80%;
+    padding:10px;
+    }
